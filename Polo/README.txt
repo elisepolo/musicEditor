@@ -12,3 +12,4 @@ save and upload their files to the software as .csv and .txt files, as well as a
 animates the user's sheet music. There is also a pen mode that uses professor-provided code for the 
 dollar recognition algorithm to allow users to draw their own notes onto the sheet music.
 
+The program can be run as a jar file by running java -jar homework.jar in the command line!
