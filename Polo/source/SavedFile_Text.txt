@@ -1,0 +1,27 @@
+Staff 0 Contents:
+0. SIXTEENTH G4 
+1. SIXTEENTH D5 
+2. SIXTEENTH G4 
+3. QUARTER B4 
+4. QUARTER D5 
+5. QUARTER G4 
+
+Total number of Notes: 7
+Staff 1 Contents:
+0. EIGTH A4 
+1. EIGTH B4 
+2. EIGTH A4 
+
+Total number of Notes: 4
+Staff 2 Contents:
+0. HALF B4 
+1. HALF D5 
+2. HALF G4 
+3. HALF B4 
+
+Total number of Notes: 5
+Staff 3 Contents:
+0. WHOLE F4 
+1. HALF B4 
+
+Total number of Notes: 3

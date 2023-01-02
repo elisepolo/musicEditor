@@ -1,0 +1,14 @@
+Staff 0 Contents:
+0. Pitch: D5 Accidental: None
+1. Pitch: A4 Accidental: None
+2. Pitch: G4 Accidental: None
+Staff 1 Contents:
+0. Pitch: C5 Accidental: None
+1. Pitch: G4 Accidental: None
+Staff 2 Contents:
+0. Pitch: G4 Accidental: None
+Staff 3 Contents:
+0. Pitch: A4 Accidental: None
+1. Pitch: D5 Accidental: None
+2. Pitch: C5 Accidental: None
+3. Pitch: G4 Accidental: None
