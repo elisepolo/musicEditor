@@ -1,11 +1,14 @@
 Julia Elise Polo
 jpolo3@gatech.edu
-Java 17 -> I tried reverting back to Java 17 (from Java 18, as needed in another class I am in), and I did this using IntelliJ IDE. Please let me know if this did not work.
 
-Extra Credit:
-- I used an image of a star instead of a ball
-- I did movement between the notes, with small arcs between each note
-- I added an image for each note, which shows it as 'highlighted' when it is being played
+Hello!
 
-Thank you guys for a great semester!!
+This is my class project for CS 4470 - User Interface Software!
+
+For this semester-long project, we were asked to create a music editing software using Java Swing.
+The software works by letting the user create their own sheet music by dragging and dropping notes,
+adding sharps and flats, and creating rests. Additional functionality was added to allow users to
+save and upload their files to the software as .csv and .txt files, as well as a 'play' mode that 
+animates the user's sheet music. There is also a pen mode that uses professor-provided code for the 
+dollar recognition algorithm to allow users to draw their own notes onto the sheet music.
 
